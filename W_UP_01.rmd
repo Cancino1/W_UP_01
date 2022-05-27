@@ -4,7 +4,7 @@ author: "Mario Cancino Jr"
 date: "Summer 2022"
 output: html_document
 ---
-fyhdyjfyfuifyuifuifukifui 
+
 
 
 The report structure should include five sections.  see below
